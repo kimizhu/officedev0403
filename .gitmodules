@@ -1,0 +1,4 @@
+[submodule "themes for officedev0403"]
+	path = officedev0403/docs/_themes
+	url = https://github.com/Microsoft/templates.docs.msft
+	branch = master
