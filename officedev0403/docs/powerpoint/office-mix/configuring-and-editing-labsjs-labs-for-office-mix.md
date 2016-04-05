@@ -1,6 +1,7 @@
 
 # Configuring and editing LabsJS labs for Office Mix
-
+
+
 
 Office Mix provides office.js methods to get and set lab configurations. The configuration indicates to Office Mix what type of lab you are creating, as well as what type of data the lab will send back. This information is used to collect and visualize analytics.
 
@@ -301,6 +302,4 @@ dynamicComponentInstance.close((err, unused) => {
 
 
 - [Office Mix add-ins](../../powerpoint/office-mix/office-mix-add-ins.md)
-    
-- [Walkthrough: Creating your first lab for Office Mix](../../powerpoint/office-mix/walkthrough:-creating-your-first-lab-for-office-mix.md)
     
