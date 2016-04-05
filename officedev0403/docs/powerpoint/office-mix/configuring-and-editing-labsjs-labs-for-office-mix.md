@@ -302,5 +302,4 @@ dynamicComponentInstance.close((err, unused) => {
 
 - [Office Mix add-ins](../../powerpoint/office-mix/office-mix-add-ins.md)
     
-- [Walkthrough: Creating your first lab for Office Mix](../../powerpoint/office-mix/walkthrough:-creating-your-first-lab-for-office-mix.md)
     
